@@ -45,7 +45,14 @@ The aggressive pull of current from our burn-resistors proved to be a challengin
 The American sanctions on Russia caused a helium shortage, and as a result we were unable to obtain helium of a sufficient purity.  
 
 # Demonstration
+Unfortunatley, because of the lack of lift from the helium, demonstrating the full systems capabilities was not possible
+![IMG_0073](https://github.com/W-Sherman/Mile-High-MyRio/assets/133146399/2e66154a-f45d-44af-b746-6795941af71f)
 
 # Conclusion
+Although our project was not able to launch due to our helium-supply, we still believe that we achieved some very distinct successes. We believe that we were able to create a non-pyrotechnical parachute deployment mechanism and are quite proud of it.  
+
+We learned a lot in regards to secure aerodynamics, (embedded) software engineering, electrical circuit engineering and a lot more. It provided both us with a level of applied experience that we rarely get to have, as we work with satellite systems. However, most importantly we got involved in an awesome project that we potentially even have the opportunity to continue with, so we are still very excited about it.  
+
+In the future we would be interested in still actually launching the MilehighMyrio, but also iterating on it. Designing a different system that is more optimized with the “clunky” Myrio on board. I do believe that we gained a large amount of experience and absolutely have the capability to iterate a more mass/volume efficient system that is more reliable as well.  
 
 # Appendix
