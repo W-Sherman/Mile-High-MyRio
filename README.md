@@ -44,8 +44,8 @@ The aggressive pull of current from our burn-resistors proved to be a challengin
 
 The American sanctions on Russia caused a helium shortage, and as a result we were unable to obtain helium of a sufficient purity.  
 
-# Hardware Implementation
-
 # Demonstration
 
 # Conclusion
+
+# Appendix
