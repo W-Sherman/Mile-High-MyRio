@@ -56,3 +56,4 @@ We learned a lot in regards to secure aerodynamics, (embedded) software engineer
 In the future we would be interested in still actually launching the MilehighMyrio, but also iterating on it. Designing a different system that is more optimized with the “clunky” Myrio on board. I do believe that we gained a large amount of experience and absolutely have the capability to iterate a more mass/volume efficient system that is more reliable as well.  
 
 # Appendix
+[Presentatio Link](Final Presentation.pdf)
