@@ -27,7 +27,22 @@ This paper provides a comprehensive overview of the Mile High MyRio project, det
 | | 15                          | O   | Prototype displays a radio-reflector during ascend                             | T/F                                                                                   |       |                                           |
 | | 16                          | O   | Prototype deploys drogue and main chute at predetermined altitude              | T/F                                                                                   |       |                                           |
 
-# Software Implementation
+Our team meticulously selected the engineering requirements for the Mile High MyRio project to address the unique demands imposed by stratospheric conditions. The chosen specifications were tailored to ensure the MyRio microcontroller's robust performance amidst loss of GPS signal or a lack of ballon burst. Our focus on ballistic descent and parachute deployment was driven by the necessity to orchestrate a controlled return, safeguarding the microcontroller throughout its journey to the edge of space and back to Earth. By carefully aligning our engineering requirements with the challenges of high-altitude environments, we aimed to demonstrate the adaptability and resilience of the MyRio microcontroller while pushing the boundaries of technological exploration in the stratosphere.  
+
+# Discussion of Challenges Encountered
+While there were several challenges that we encountered during this project, I shall list the ones that we felt were most significant to us.  
+
+## Interfacing the IMU to the MyRio 
+
+Interfacing with the parts that we had bought specifically for this project proved to be much more challenging than expected. Due to LabView not being a standard language for these types of hardware, there was no documentation available. As a result we had to break down the communication protocols all the way to its binary form. Due to the combination of lack of documentation as well as unreliable documentation this proved to be impossible at times.  
+
+## Actuating the burns 
+
+The aggressive pull of current from our burn-resistors proved to be a challenging hurdle to overcome. On several occasions we had to iterate on our system, as the aggressive current pull from the resistors would take away power from our critical systems.  
+
+## Geopolitical Climate 
+
+The American sanctions on Russia caused a helium shortage, and as a result we were unable to obtain helium of a sufficient purity.  
 
 # Hardware Implementation
 
